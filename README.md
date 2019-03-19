@@ -6,7 +6,7 @@ We are looking for the Dreamers!
 
 ## 🏆 Challenge Honor Awards
 
-> _`Bảng Vinh Danh` các cá nhân đã hoàn thành các công việc thử thách_
+> _`Bảng Vinh Danh` những cá nhân đã hoàn thành các công việc thử thách_
 
 **🏆 - First Solution Award**
 
